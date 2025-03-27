@@ -1,7 +1,7 @@
 
 
 # Response Winner Prediction
-## 🏆 This Project gave us **First Prize** in **"Microsoft Student Learn Chapter PCCOE Hackathon"** 🏆.  
+## 🏆 This Project gave us **First Prize** in **"Microsoft Student Learn Chapter PCCOE Hackathon"** 🏆
 
 This project compares responses from two models (model_a and model_b) based on their similarity to a prompt. Using transformer-based sentence embeddings and additional text features, the project trains a LightGBM classifier to predict which model’s response is better or if the result is a tie.
 
